@@ -10,3 +10,4 @@ int main() {
     func_ptr = add_func;
     printf("%d\n", func_ptr(n,m));
     return 0;
+}
